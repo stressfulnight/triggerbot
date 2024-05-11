@@ -1,2 +1,0 @@
-# triggerbot
-triggerbot
